@@ -1,0 +1,52 @@
+body{
+   margin: 0;
+}
+
+header h1{
+    color: white;
+    background-color: #281B2D;
+    color: white;
+    text-align: center;
+    margin-top: 0 ;
+    font-size: 72px;
+    padding: 25px;
+}
+
+.subhead{
+    background-color: black;
+    color: yellowgreen;
+    font-size: 48px ;
+    padding: 20px;
+    border-bottom: solid green 5px ;
+   
+} 
+
+.whitetxt{
+    color: white;
+}
+
+.container{
+   max-width: 1000px;
+    /* border: solid red; */
+    margin: 0 auto;
+}
+
+.columns{
+   display: flex;
+}
+
+.main-content{
+    width: 65%;
+    margin-right: 5%;
+   
+}
+
+.col-right{
+    margin-left: 25px;
+}
+
+.sidebar{
+    background-color: greenyellow;
+    padding: 25px;
+    
+}
